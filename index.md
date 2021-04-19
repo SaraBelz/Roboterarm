@@ -10,8 +10,7 @@ All diese Teile sollten sich nach oben und unten bewegen bzw. öffnen und schlie
 
 Skizze des Prototypen:
 
-![Skizze der Projektidee](https://octodex.github.com/images/yaktocat.png)
-(https://github.com/SaraBelz/Roboterarm/blob/Webseite/images/Ilustracio_n_sin_ti_tulos.png)
+![Skizze der Projektidee](https://github.com/SaraBelz/Roboterarm/blob/Webseite/images/Ilustracio_n_sin_ti_tulos.png)
 
 Ist einmal das Prototyp fertig, würde man manche Verbesserungen machen:
 
