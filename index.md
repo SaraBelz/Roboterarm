@@ -14,11 +14,8 @@ Ist einmal das Prototyp fertig, würde man manche Verbesserungen machen:
 - Hand hat 3 "Finger"
 - Nicht so viele Buttons für die Bewegung benutzten, vielleicht 2 Joysticks und ein Button für die Zange
 
-![Skizze der Projektidee](https://github.com/SaraBelz/Roboterarm/blob/Webseite/images/Ilustracio_n_sin_ti_tulo.png)
+![Skizze der Projektidee](https://github.com/SaraBelz/Roboterarm/blob/Webseite/images/Ilustracio_n_sin_ti_tulos.png)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -35,7 +32,6 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
 
 
 
