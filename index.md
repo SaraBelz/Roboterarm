@@ -1,4 +1,4 @@
-## Homepage               ## Homepage                 
+## [Homepage](https://sarabelz.github.io/Roboterarm/index)                   [Progress](https://sarabelz.github.io/Roboterarm/Progress)               
   
 
 Meine Idee fürs Projekt, ist es ein Roboterarm zu bauen der in Prinzip eine Hand in Form einer Zange hat. 
@@ -14,7 +14,7 @@ Ist einmal das Prototyp fertig, würde man manche Verbesserungen machen:
 - Hand hat 3 "Finger"
 - Nicht so viele Buttons für die Bewegung benutzten, vielleicht 2 Joysticks und ein Button für die Zange
 
-[Hallo](https://sarabelz.github.io/Roboterarm/Progress)
+
 
 ### Markdown
 
@@ -37,15 +37,5 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-[Hallo](https://sarabelz.github.io/Roboterarm/Progress)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SaraBelz/Roboterarm/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
