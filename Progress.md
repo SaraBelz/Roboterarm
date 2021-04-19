@@ -1,12 +1,10 @@
-Meine Idee fürs Projekt, ist es ein Roboterarm zu bauen der in Prinzip eine Hand in Form einer Zange hat. 
+Timeline der arbeit des Projekts :
 
-Erste Idee für Prototyp:
+**14.04 - Abgabe des PDF's der Projektidee**
+![Skizze der Projektidee](https://github.com/SaraBelz/Roboterarm/commit/85b6e13d1b1a1dbc94e56b537cd01f37c0fea1ff#diff-6cb70aba4e0703f5e05d58c02848f2c52c2fbc71ba95082c76ad01df6eee68c0)
 
-Das robotisierte Arm sollte einen "Oberarm” und einen “Unterarm” haben.Es würde aus eine "Hand" haben die wie eine Zange funktioniert.Bei dieser würde sich aber nur ein Teil bewegen. Das heißt also, der linke Teil der Zange öffnet und schließt sich und der rechte Teil bleibt einfach nur still. Es sollte sich auch als Ganzes Teil um sich selbst rotieren können.  
-All diese Teile sollten sich nach oben und unten bewegen bzw. öffnen und schließen können im Fall der Zangen die, die Hand formt. Deshalb würde es dann für jeden Teil zwei Knöpfe geben die diese jeweiligen Aktionen durchführen würden, wenn man diese drückt.
+**15.04 - Präsentation Projektidee**
 
-Ist einmal das Prototyp fertig, würde man manche Verbesserungen machen:
+**19.04 - Erstelltung der Webseite fürs Projekt**
 
-- Strucktur wird 3d geprinted
-- Hand hat 3 "Finger"
-- Nicht so viele Buttons für die Bewegung benutzten, vielleicht 2 Joysticks und ein Button für die Zange
+
