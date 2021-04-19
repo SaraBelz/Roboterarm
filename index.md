@@ -1,4 +1,4 @@
-## [Homepage](https://sarabelz.github.io/Roboterarm/index)                   [Progress](https://sarabelz.github.io/Roboterarm/Progress)               
+## [Homepage](https://sarabelz.github.io/Roboterarm/index) | [Progress](https://sarabelz.github.io/Roboterarm/Progress)               
   
 
 Meine Idee fürs Projekt, ist es ein Roboterarm zu bauen der in Prinzip eine Hand in Form einer Zange hat. 
