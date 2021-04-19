@@ -14,7 +14,7 @@ Ist einmal das Prototyp fertig, würde man manche Verbesserungen machen:
 - Hand hat 3 "Finger"
 - Nicht so viele Buttons für die Bewegung benutzten, vielleicht 2 Joysticks und ein Button für die Zange
 
-
+![Skizze der Projektidee](https://github.com/SaraBelz/Roboterarm/blob/Webseite/images/Ilustracio_n_sin_ti_tulo.png)
 
 ### Markdown
 
