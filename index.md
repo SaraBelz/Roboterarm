@@ -10,9 +10,9 @@ All diese Teile sollten sich nach oben und unten bewegen bzw. öffnen und schlie
 
 Ist einmal das Prototyp fertig, würde man manche Verbesserungen machen:
 
--Strucktur wird 3d geprinted
--Hand hat 3 "Finger"
--Nicht so viele Buttons für die Bewegung benutzten, vielleicht 2 Joysticks und ein Button für die Zange
+- Strucktur wird 3d geprinted
+- Hand hat 3 "Finger"
+- Nicht so viele Buttons für die Bewegung benutzten, vielleicht 2 Joysticks und ein Button für die Zange
 
 
 ### Markdown
@@ -36,7 +36,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-[https://sarabelz.github.io/Roboterarm/Progress](url)
+[Hallo](https://sarabelz.github.io/Roboterarm/Progress)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
