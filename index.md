@@ -12,6 +12,8 @@ Skizze des Prototypen:
 
 ![Skizze der Projektidee](https://github.com/SaraBelz/Roboterarm/blob/Webseite/images/Ilustracio_n_sin_ti_tulos.png)
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 Ist einmal das Prototyp fertig, würde man manche Verbesserungen machen:
 
 - Strucktur wird 3d geprinted
