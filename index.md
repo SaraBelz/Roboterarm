@@ -10,9 +10,7 @@ All diese Teile sollten sich nach oben und unten bewegen bzw. öffnen und schlie
 
 Skizze des Prototypen:
 
-![Skizze der Projektidee](https://github.com/SaraBelz/Images/blob/main/Ilustracio_n_sin_ti_tulos.png)
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Skizze der Projektidee](https://user-images.githubusercontent.com/61918638/115707227-cdd5c100-a36e-11eb-830c-4fc7a700528e.png)
 
 Ist einmal das Prototyp fertig, würde man manche Verbesserungen machen:
 
