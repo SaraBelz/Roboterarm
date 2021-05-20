@@ -14,7 +14,8 @@ Timeline der arbeit des Projekts :
 
 **14.05 - Erste Schritte um den Prototypen zu machen**
 
-          Versuchen das sich der Schrittmotor und der Servomotor sich bewegen und steuerbar sind.
+Versuchen das sich der Schrittmotor und der Servomotor sich bewegen und steuerbar sind.
+
 
 **16.05 - Schrittmotor bewegt sich mit Joystick**
 
@@ -23,6 +24,6 @@ Timeline der arbeit des Projekts :
 **20.06 - Zwischenbericht des Projekts**
 
 
-           [![Schrittmotor bewegt sich mit Joystick und Servo mit Buttons](https://img.youtube.com/vi/FMwPcve122o&ab_channel=sarabelzafonso/0.jpg)](https://www.youtube.com/watch?v=FMwPcve122o&ab_channel=sarabelzafonso)
+[![Schrittmotor bewegt sich mit Joystick und Servo mit Buttons](https://img.youtube.com/vi/FMwPcve122o&ab_channel=sarabelzafonso/0.jpg)](https://www.youtube.com/watch?v=FMwPcve122o&ab_channel=sarabelzafonso)
 
 
