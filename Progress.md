@@ -13,6 +13,7 @@ Timeline der arbeit des Projekts :
 **13.05 - finales Pflichtenheft**
 
 **14.05 - Erste Schritte um den Prototypen zu machen**
+
           Versuchen das sich der Schrittmotor und der Servomotor sich bewegen und steuerbar sind.
 
 **16.05 - Schrittmotor bewegt sich mit Joystick**
