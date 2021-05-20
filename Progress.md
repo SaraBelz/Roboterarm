@@ -20,6 +20,8 @@ Timeline der arbeit des Projekts :
 **19.06 - Servomotor bewegt sich mit Buttons**
 
 **20.06 - Zwischenbericht des Projekts**
+
+
            [![Schrittmotor bewegt sich mit Joystick und Servo mit Buttons](https://img.youtube.com/vi/FMwPcve122o&ab_channel=sarabelzafonso/0.jpg)](https://www.youtube.com/watch?v=FMwPcve122o&ab_channel=sarabelzafonso)
 
 
