@@ -24,6 +24,6 @@ Versuchen das sich der Schrittmotor und der Servomotor sich bewegen und steuerba
 **20.06 - Zwischenbericht des Projekts**
 
 
-[![Schrittmotor bewegt sich mit Joystick und Servo mit Buttons](https://img.youtube.com/vi/FMwPcve122o&ab_channel=sarabelzafonso/0.jpg)](https://www.youtube.com/watch?v=FMwPcve122o&ab_channel=sarabelzafonso)
+[![Schrittmotor bewegt sich mit Joystick und Servo mit Buttons](https://img.youtube.com/vi/FMwPcve122o/0.jpg)](https://www.youtube.com/watch?v=FMwPcve122o&ab_channel=sarabelzafonso)
 
 
